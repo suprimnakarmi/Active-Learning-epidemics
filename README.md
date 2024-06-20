@@ -19,7 +19,7 @@ Note: You can install the requirements.txt file, but it is specific to the MacOS
 To run the experiments, currently, only Jupyter notebooks are available. Open the notebook for corresponding data and run all the code shell. Change the path/location to the dataset and path to save the pickel file and excel report as shown in comment of the code. 
 
 ## Schema 
-Illustration of human-in-the-loop machine learning framework using a feedback loop we termed mentoring. Mentoring refers to interference of the human Expert in the traning loop when the model commits a mistake.
+Illustration of Active Learning (or human-in-the-loop machine learning) framework using a feedback loop we termed mentoring. Mentoring refers to interference of the human Expert in the traning loop when the model commits a mistake.
 ![Figure 1: Illustration of human-in-the-loop machine learning framework using a feedback loop we termed mentoring. Mentoring refers to interference of the human Expert in the traning loop when the model commits a mistake.](images/schema.png)
 
 
