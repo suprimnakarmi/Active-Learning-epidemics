@@ -1,15 +1,15 @@
 # Active Learning to Minimize the Possible Risk of Future Epidemics
 Official repository for Active Learning to Minimize the Risk of Future epidemics, published at IEEE CAI conference and springer book. The publications are avalable at the links:
-Conference paper: [IEEE CAI, 2023](https://ieeexplore.ieee.org/abstract/document/10194994)
-Book: [SpringerBriefs in Applied Sciences and Technology book series, 2023](https://link.springer.com/book/10.1007/978-981-99-7442-9)
+* Conference paper: [IEEE CAI, 2023](https://ieeexplore.ieee.org/abstract/document/10194994)
+* Book: [SpringerBriefs in Applied Sciences and Technology book series, 2023](https://link.springer.com/book/10.1007/978-981-99-7442-9)
 
 
 To reproduce our experiments, use following packages:
-Python: 3.8.2
-Tensorflow: 2.15.1
-Numpy: 1.26.3
-Scikit-learn: 1.3.0
-Matplotlib: 3.8.2
+* Python: 3.8.2
+* Tensorflow: 2.15.1
+* Numpy: 1.26.3
+* Scikit-learn: 1.3.0
+* Matplotlib: 3.8.2
 
 Also availble in the requirements.txt file. 
 
