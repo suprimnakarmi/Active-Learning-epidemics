@@ -11,7 +11,7 @@ To reproduce our experiments, use following packages:
 * Scikit-learn: 1.3.0
 * Matplotlib: 3.8.2
 
-Also availble in the requirements.txt file. 
+Also available in the requirements.txt file. 
 
 Note: You can install the requirements.txt file, but it is specific to the MacOS (M1 architecture).
 
