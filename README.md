@@ -1,5 +1,5 @@
 # Active Learning to Minimize the Possible Risk of Future Epidemics
-Official repository for *Active Learning to Minimize the Risk of Future epidemics*, published at IEEE CAI conference, which was extended as a book. The publications are avalable at the links:
+Official repository for *Active Learning to Minimize the Risk of Future epidemics*, published at IEEE CAI conference, which was extended as a comprehensive book. The publications are avalable at the links:
 * Conference paper: [IEEE CAI, 2023](https://ieeexplore.ieee.org/abstract/document/10194994)
 * Book: [SpringerBriefs in Applied Sciences and Technology book series, 2023](https://link.springer.com/book/10.1007/978-981-99-7442-9)
 
